@@ -3,15 +3,23 @@
 ## Overview and Origin
 
 * **Name of company**
-    SpringHealth
+
+Tempus
 
 * **When was the company incorporated?**
-SpringHealth was founded in 2016
+
+Tempus was founded in 2015
 
 * **Who are the founders of the company**
-April Koh and Adam Chekroud
+
+Eric Lefkofsky
 
 * **How did the idea for the company come about?**
-It was founded with a mission to eliminate every barrier to mental healthcare. 
+
+This company came about because the founder's wife was diagnosed with Breast Cancer. This company was made as an effort to bring the power of technology and AI to cancer care.
 
 * **How is the company funded? How much funding have they received?**
+
+Tempus is funded through a combination of equity and debt. Tempus has solf it shares to big companies such as Google, NEA, NOVO Holdings, etc. It has also received some debt from Ares Management. Tempus has raised over $1.43B in funding. 
+
+
