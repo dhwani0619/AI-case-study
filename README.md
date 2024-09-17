@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 * **Name of company**
-SpringHealth
+** SpringHealth
 
 * **When was the company incorporated?**
 SpringHealth was founded in 2016
