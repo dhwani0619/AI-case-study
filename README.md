@@ -135,4 +135,4 @@
     * **Data Integration Platforms:** You may create coherent and thorough patient profiles through the connection of several data sources, leading to more individualized and effective healthcare solutions.
 
 ### References 
-> [Forbes]((https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH))
+> [Forbes](https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH)
