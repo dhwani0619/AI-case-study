@@ -5,7 +5,7 @@
 * **Name of company**
     
     Tempus
-    [![Tempus](https://vivli.org/wp-content/uploads/2021/05/member_logo_tempus-1.jpg)](https://www.tempus.com/)
+    [![Tempus](https://tukuz.com/wp-content/uploads/2021/06/tempus-logo-vector.png)](https://www.tempus.com/)
 
 
 * **When was the company incorporated?**
