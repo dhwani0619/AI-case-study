@@ -39,12 +39,21 @@
 * **Which technologies are they currently using, and how are they implementing them?** 
 
     Tempus uses AI algorithms for genetic sequencing, multimodal data integration, and real-time analytics. AI-driven diagnostics and liquid biopsies, which are FDA-approved, are examples of how advances in diagnosis and treatment are made possible by AI tools.
-    
+
 ## Landscape 
 
 * **What field is the company in?**
 
+    Tempus is a healthcare technology company that creates and delivers personalized genomic, imaging, and sequence-based solutions to help doctors diagnose and treat patients more quickly by giving information when they need it. For patients suffering from a variety of diseases, including oncology, cardiology, psychiatry, and rare diseases, Tempus' data-driven and machine learning framework allows for academic research and development, clinical trial delivery, and large-scale monitoring of new and innovative medicines. Tempus combines artificial intelligence, genetics, and precision medicine to match patients with the correct medication at the right time.
+
 * **What have been the major trends and innovations of this field over the last 5 - 10 years?**
+
+    Important advancements and discoveries in this field throughout the preceding five to ten years:
+        * **Precision medicine:** This field, which customizes treatments based on a patient's genetic and molecular profile, has grown in popularity. Cancer has been especially affected by this, since genetic sequencing makes more specialized medications possible. 
+        * **Artificial intelligence and machine learning:** Drug detection, predictive modeling, and diagnostic processes increasingly prominently include AI. Artificial intelligence (AI) makes it possible for technology to sift through massive information and find patterns that human researchers would miss.
+        * **Next-Generation Sequencing (NGS):** Because NGS technologies are more cost-effective and efficient, they are increasingly being used in clinical settings for genomic testing and patient DNA sequencing for personalized medication.
+        * **Real-world data and evidence:** supplied by the patient Real-World Data (RWD) is being used more frequently to enhance clinical trial results. This provides useful insights for personalized therapy and improves the accuracy of AI models.
+        * **Telehealth and remote monitoring:** The healthcare sector has seen a rapid evolution in wearable technologies for telehealth and real-time patient monitoring. The capacity to comprehend data streams from these devices has been greatly impacted by developments in artificial intelligence and machine learning.
 
 * **What are the other major companies in this field?**
 
