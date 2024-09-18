@@ -135,4 +135,9 @@
     * **Data Integration Platforms:** You may create coherent and thorough patient profiles through the connection of several data sources, leading to more individualized and effective healthcare solutions.
 
 ### References 
-> [Forbes on Tempus](https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH)
+> [Tempus official website](https://www.tempus.com/)
+> [Forbes on Tempus](https://www.youtube.com/watch?v=QWE61bPp9Os)
+> [Tempus with Pfizer](https://www.fiercehealthcare.com/health-tech/precision-medicine-company-tempus-inks-3rd-major-pharma-deal-securing-nearly-1b-revenue)
+> [AI in Genetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10856672/#:~:text=AI%20has%20great%20potential%20in,heredity%20and%20gene%2Drelated%20disorders.)
+> [Use of Big Data in Personalized Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11051308/)
+> [AI in Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/)
