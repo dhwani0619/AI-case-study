@@ -20,7 +20,7 @@
 
 * **How is the company funded? How much funding have they received?**
    
-    Tempus is funded through a combination of equity and debt. Tempus has solf it shares to big companies such as Google, NEA, NOVO Holdings, etc. It has also received some debt from Ares Management. Tempus has raised over $1.43B in funding. 
+    Tempus is funded through a combination of equity and debt. Tempus has also sold its shares to big companies such as Google, NEA, NOVO Holdings, etc. It has also received some debt from Ares Management. Tempus has raised over $1.43B in funding. 
 
 ## Business Activities 
 
@@ -135,4 +135,4 @@
     * **Data Integration Platforms:** You may create coherent and thorough patient profiles through the connection of several data sources, leading to more individualized and effective healthcare solutions.
 
 ### References 
-> [Forbes](https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH)
+> [Forbes on Tempus](https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH)
