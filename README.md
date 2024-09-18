@@ -62,6 +62,14 @@
 
 * **What are the other major companies in this field?**
 
+    Some big companies in the same field which uses components of Tempus are: 
+
+    * **IBM Watson Health:** The company's Watson for Oncology platform uses artificial intelligence and big data analytics to improve health outcomes, such as cancer detection and treatment.
+    
+    * **Foundation Medicine:** focuses on genomic profiling to help doctors determine the best course of treatment for cancer patients based on genetic changes.
+    
+    * **23andMe:** This company is best known for consumer DNA testing, but it also uses genetic data to conduct research and gain insight into health issues.
+
 ## Results
 
 * **What has been the business impact of this company so far?**
