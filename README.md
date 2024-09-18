@@ -62,7 +62,7 @@
 
 * **What are the other major companies in this field?**
 
-    Some big companies in the same field which uses components of Tempus are: 
+    Some big companies in the same field which uses the same components as Tempus are: 
 
     * **IBM Watson Health:** The company's Watson for Oncology platform uses artificial intelligence and big data analytics to improve health outcomes, such as cancer detection and treatment.
     
@@ -79,8 +79,6 @@
 * **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?**
 
     The following are some of the core metrics that companies in this field uses to measure success: 
-
-    Check the following essential performance indicators:
     
     * **Data quantity and Quality:** When a lot of clinical, molecular, and imaging data is gathered, 35 petabytes worth, for example: the algorithms function better.
     
@@ -108,7 +106,7 @@
     
 * **Why do you think that offering this product or service would benefit the company?**
 
-    Benefits
+    The following reasons may be benficial: 
     
     * **Advanced genomic sequencing:** This method makes it possible to examine genetic variants in greater detail, which enhances the identification of potential genetic targets for precision medicine and helps to improve patient outcomes.
     
@@ -137,3 +135,5 @@
     * **Data Integration Platforms:** You may create coherent and thorough patient profiles through the connection of several data sources, leading to more individualized and effective healthcare solutions.
 
 ### References 
+
+    [Forbes on Tempus](https://www.tempus.com/news/forbes-3/?srsltid=AfmBOor2Gk643M-z474fFsq7IWv1E_xdPQpNqdUQh70WpJgNqBLY49oH)
