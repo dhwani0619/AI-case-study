@@ -5,6 +5,8 @@
 * **Name of company**
     
     Tempus
+    [![Tempus](https://vivli.org/wp-content/uploads/2021/05/member_logo_tempus-1.jpg)](https://www.tempus.com/)
+
 
 * **When was the company incorporated?**
    
@@ -136,8 +138,20 @@
 
 ### References 
 > [Tempus official website](https://www.tempus.com/)
+
 > [Forbes on Tempus](https://www.youtube.com/watch?v=QWE61bPp9Os)
+
 > [Tempus with Pfizer](https://www.fiercehealthcare.com/health-tech/precision-medicine-company-tempus-inks-3rd-major-pharma-deal-securing-nearly-1b-revenue)
+
 > [AI in Genetics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10856672/#:~:text=AI%20has%20great%20potential%20in,heredity%20and%20gene%2Drelated%20disorders.)
+
 > [Use of Big Data in Personalized Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11051308/)
+
 > [AI in Healthcare](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6616181/)
+
+> [IBM Watson Health](https://www.ibm.com/industries/healthcare)
+
+> [Foundation Medicine](https://www.foundationmedicine.com/)
+
+> [Artificial intelligence in healthcare: transforming the practice of medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285156/)
+
