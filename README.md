@@ -26,12 +26,20 @@
 
 * **What specific problem is the company or project trying to solve?**
 
-* **Who us the company's intended customer? Is there any information about the market size of this set of customers?**
+    The company is working to address issues related to out-of-date cancer, neurological, and cardiovascular treatments. Large amounts of molecular data are combined with clinical record data to aid in personalized treatment. The company's goal is to help medical practitioners make data-driven decisions about individual patients, hence improving treatment outcomes. 
+
+* **Who is the company's intended customer? Is there any information about the market size of this set of customers?**
+
+    The company's target market consists of researchers, large pharmacy companies, and healthcare experts. Oncologists and other medical experts who treat patients with complex illnesses and have access to Tempus' genetic data are particularly targeted. Tempus operates in a global market that is expected to increase from $73 billion in 2022 to more than $150 billion by 2030. Pharmaceutical businesses, medical practices, hospitals, and research organizations make up the market. 
 
 * **What solution does this company offer that their competitors fo not or cannot offer?** ***(what is the unfair advantage they utilize)*** 
 
+    To improve medical outcomes, Tempus distinguishes itself from competitors by combining genetic, clinical, and imaging data into a single AI-powered platform. Modern technology enables physicians to identify therapy gaps and anticipate treatment outcomes. A clinical assistant with AI capabilities is one example of this. Their massive dataset, which includes over 7 million de-identified records, was created to improve patient outcomes using real-world data, distinguishing them from competitors. 
+
 * **Which technologies are they currently using, and how are they implementing them?** 
 
+    Tempus uses AI algorithms for genetic sequencing, multimodal data integration, and real-time analytics. AI-driven diagnostics and liquid biopsies, which are FDA-approved, are examples of how advances in diagnosis and treatment are made possible by AI tools.
+    
 ## Landscape 
 
 * **What field is the company in?**
