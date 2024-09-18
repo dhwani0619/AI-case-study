@@ -155,3 +155,4 @@
 
 > [Artificial intelligence in healthcare: transforming the practice of medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285156/)
 
+> [Tempus on Funding](https://www.tempus.com/news/tempus-announces-275-million-in-funding/?srsltid=AfmBOoqYD0vg7PWQso4RQUnpJ737q8QokZtf99R0urqmLVcj3myvcr9v)
