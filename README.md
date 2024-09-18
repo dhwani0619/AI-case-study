@@ -1,12 +1,12 @@
 # AI-case-study
 
+[![Tempus](https://tukuz.com/wp-content/uploads/2021/06/tempus-logo-vector.png)](https://www.tempus.com/)
+
 ## Overview and Origin
 
 * **Name of company**
     
     Tempus
-    [![Tempus](https://tukuz.com/wp-content/uploads/2021/06/tempus-logo-vector.png)](https://www.tempus.com/)
-
 
 * **When was the company incorporated?**
    
